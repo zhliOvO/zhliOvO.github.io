@@ -19,7 +19,7 @@ redirect_from:
 
 I am Zhuoheng Li, and I am currently a student at the University of Michigan, Ann Arbor.
 
-I am pursuing a dual degree program through the Shanghai Jiao Tong University and the University of Michigan Joint Institute. Upon graduation, I will hold a Bachelor of Electrical and Computer Engineering from SJTU and a Bachelor of Science in Computer Science with a Minor in Mathematics from Umich. I have conducted research under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
+I am pursuing a dual degree program through the Shanghai Jiao Tong University and the University of Michigan Joint Institute. Upon graduation, I will hold a Bachelor of Electrical and Computer Engineering from SJTU and a Bachelor of Science in Computer Science with a Minor in Mathematics from Umich. I have conducted several researches under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
 
 My research interests encompass AI for Science, Data Mining, Large Language Models, and Computer Vision.
 
@@ -30,7 +30,8 @@ My research interests encompass AI for Science, Data Mining, Large Language Mode
   Introduced an innovative computational framework for enhancing images captured in low-light conditions using convolutional neural networks. [View The Repository](https://github.com/zhliOvO/dark) | [View The Paper](https://arxiv.org/abs/2405.12891)
 
 # 🎖 Honors and Awards
-- *2023.12* Received the Dean's Honor List recognition at the University of Michigan.
+- *2023 FA* Received the Dean's Honor List recognition at the University of Michigan.
+- *2022.11* SJTU Undergraduate Excellent Scholarship (Class B)
 - *2021.09* Outstanding Graduate of Shanghai High School.
 
 # 📖 Educations
