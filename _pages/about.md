@@ -19,7 +19,7 @@ redirect_from:
 
 I am Zhuoheng Li and I study at the University of Michigan, Ann Arbor.
 
-I am currently in a dual degree program in Shanghai Jiaotong University and University of Michigan Joint Institute. I will be graduating with Bachelor of Electrical and Computer Engineering in SJTU and Bachelor of Science, Computer Science, Minor in Mathematics in Umich. I did several researches supervised by Zhenhui Li, Guanjie Zheng, Zhuoran Song, and Justin Kasper.
+I am currently in a dual degree program in Shanghai Jiaotong University and University of Michigan Joint Institute. I will be graduating with Bachelor of Electrical and Computer Engineering in SJTU and Bachelor of Science, Computer Science, Minor in Mathematics in Umich. I did several researches supervised by Zhenhui Li, Guanjie Zheng, Yi Shi, Zhuoran Song, and Justin Kasper.
 
 My research interest includes AI for Science, Data Mining, Large Language Model and Computer Vision. <a href='https://scholar.google.com/citations?user=6lA1lrIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -38,11 +38,11 @@ My research interest includes AI for Science, Data Mining, Large Language Model 
 - **Shanghai Jiaotong University**, Bachelor of Electrical and Computer Engineering, *2021 - 2023*.
 - **Shanghai High School**, Outstanding Graduate, *2018 - 2021*.
 
-# 💻 Internships
+# 💼 Internships
 - *2024 May-August*, **IT and Business Analytics Intern @ Innovac Therapeutics**, Boston, MA.
 - *2024 June-August*, **Research Assistant @ Hangzhou Yunqi Academy of Engineering**, Hangzhou, China.
 
-# 💼 Research Experience
+# 💻 Research Experience
 - **Cloud Gaming Platform with AI Integration (PRP) @ SJTU**, *2021-2022*  
   Developed a cloud gaming platform with high-quality rendering. Utilized ffmpeg and YOLO to reduce rendering latency. Collaborated with a team to optimize sensory performance, achieving a smooth gaming experience.
 
