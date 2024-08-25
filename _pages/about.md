@@ -24,7 +24,7 @@ I am pursuing a dual degree program through the Shanghai Jiao Tong University an
 My research interests encompass AI for Science, Data Mining, Large Language Models, and Computer Vision.
 
 
-# 📝 Publications 
+# 📝 Papers 
 
 - **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
   Introduced an innovative computational framework for enhancing images captured in low-light conditions using convolutional neural networks. [View The Repository](https://github.com/zhliOvO/dark) | [View The Paper](https://arxiv.org/abs/2405.12891)
