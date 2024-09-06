@@ -17,17 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhuoheng Li, and I am currently a student at the University of Michigan, Ann Arbor.
+I am Zhuoheng Li, and I am currently a senior student at the University of Michigan, Ann Arbor.
 
 I am pursuing a dual degree program through the Shanghai Jiao Tong University and the University of Michigan Joint Institute. Upon graduation, I will hold a Bachelor of Electrical and Computer Engineering from SJTU and a Bachelor of Science in Computer Science with a Minor in Mathematics from Umich. I have conducted several researches under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
 
-My research interests encompass AI for Science, Data Mining, Large Language Models, and Computer Vision.
+My research interests encompass AI for Science, Data Mining, and Large Language Models.
 
 
 # 📝 Papers 
 
 - **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
-  Introduced an innovative computational framework for enhancing images captured in low-light conditions using convolutional neural networks. [View The Repository](https://github.com/zhliOvO/dark) | [View The Paper](https://arxiv.org/abs/2405.12891)
+  **Zhuoheng Li**, Yuheng Pan, Houcheng Yu, Zhiheng Zhang
+  arXiv Preprint.
+  [Code](https://github.com/zhliOvO/dark) | [arXiv](https://arxiv.org/abs/2405.12891)
+
+- **What can LLM tell us about cities?**, *2024*  
+  **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li
+  In Review, AAAI 2025.
 
 # 🎖 Honors and Awards
 - *2023 FA* Received the Dean's Honor List recognition at the University of Michigan.
@@ -54,7 +60,7 @@ My research interests encompass AI for Science, Data Mining, Large Language Mode
   Developed optimization models using Linear Integer Programming and conducted TOPSIS analysis for strategy selection.
 
 - **Multidisciplinary Design Program (MDP)**, *2024*  
-  Designed a transient array detection system and supported computer hardware in the ground array for SunRISE.
+  Developed a transient array detection system and implemented a machine learning classification method for burst signals in the ground array of the SunRISE project.
 
 
 # 🎓 Certificates
