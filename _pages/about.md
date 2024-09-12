@@ -28,16 +28,18 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
 
 - **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
   **Zhuoheng Li**, Yuheng Pan, Houcheng Yu, Zhiheng Zhang
+
   arXiv Preprint.
   [Code](https://github.com/zhliOvO/dark) | [arXiv](https://arxiv.org/abs/2405.12891)
 
 - **What can LLM tell us about cities?**, *2024*  
   **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li
+
   In Review, AAAI 2025.
 
 # 🎖 Honors and Awards
-- *2023 FA* Received the Dean's Honor List recognition at the University of Michigan.
-- *2022.11* SJTU Undergraduate Excellent Scholarship (Class B)
+- *2023 FA* Dean's Honor List at the University of Michigan.
+- *2022.11* SJTU Undergraduate Excellent Scholarship. (Class B)
 - *2021.09* Outstanding Graduate of Shanghai High School.
 
 # 📖 Educations
@@ -62,6 +64,8 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
 - **Multidisciplinary Design Program (MDP)**, *2024*  
   Developed a transient array detection system and implemented a machine learning classification method for burst signals in the ground array of the SunRISE project.
 
+- **AI Behavioral Science (Forseer Group)**, *2024*  
+  Conducted research on the application of LLMs in behavioral science, focusing on understanding AI behaviors and how AI can be used to understand human behaviors.
 
 # 🎓 Certificates
 - **Google Analytics**, *2024.5*  
