@@ -43,8 +43,8 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
   arXiv Preprint. [Code](https://github.com/zhliOvO/dark) | [arXiv](https://arxiv.org/abs/2405.12891)
 
 - **Unraveling schizophrenia’s genetic complexity through advanced causal inference and chromatin 3D conformation**, *2024*  
-  Liangjie Liu, Decheng Ren, Keyi Li, Lei Ji, Mofan Feng, **Zhuoheng Li**, et al.  
-  *Schizophrenia Research*, Elsevier.
+  Liangjie Liu, Decheng Ren, Keyi Li, Lei Ji, Mofan Feng, **Zhuoheng Li**, Luming Meng, Guang He, Yi Shi
+  *Schizophrenia Research*, Elsevier. [paper](https://www.sciencedirect.com/science/article/pii/S0920996424003128)
 
 # 🎖 Honors and Awards
 
