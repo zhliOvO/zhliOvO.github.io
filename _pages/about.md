@@ -26,32 +26,46 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
 
 # 📝 Papers 
 
-- **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
-  **Zhuoheng Li**, Yuheng Pan, Houcheng Yu, Zhiheng Zhang
-
+- **Be.FM: An Open Foundation Model for Human Behaviors**, *2025*  
+  Yutong Xie, **Zhuoheng Li**, Xiyuan Wang, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Jin Huang, Xingjian Zhang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei  
   arXiv Preprint.
-  [Code](https://github.com/zhliOvO/dark) | [arXiv](https://arxiv.org/abs/2405.12891)
+
+- **Generative AI in Transportation Planning: A Survey**, *2025*  
+  Longchao Da, Tiejin Chen, **Zhuoheng Li**, Shreyas Bachiraju, Huaiyuan Yao, Xiyang Hu, Zhengzhong Tu, Yue Zhao, Dongjie Wang, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei
+  arXiv Preprint.
 
 - **What can LLM tell us about cities?**, *2024*  
-  **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li
+  **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li  
+  In Review, IJCAI 2025. [arXiv](https://arxiv.org/abs/2411.16791)
 
-  In Review, AAAI 2025.
+- **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
+  **Zhuoheng Li**, Yuheng Pan, Houcheng Yu, Zhiheng Zhang  
+  arXiv Preprint. [Code](https://github.com/zhliOvO/dark) | [arXiv](https://arxiv.org/abs/2405.12891)
+
+- **Unraveling schizophrenia’s genetic complexity through advanced causal inference and chromatin 3D conformation**, *2024*  
+  Liangjie Liu, Decheng Ren, Keyi Li, Lei Ji, Mofan Feng, **Zhuoheng Li**, et al.  
+  *Schizophrenia Research*, Elsevier.
 
 # 🎖 Honors and Awards
-- *2023 FA* Dean's Honor List at the University of Michigan.
-- *2022.11* SJTU Undergraduate Excellent Scholarship. (Class B)
-- *2021.09* Outstanding Graduate of Shanghai High School.
+
+- *Winter 2025* James B. Angell Scholar, University of Michigan
+- *Fall 2023, Winter 2024, Fall 2024* Dean's Honor List, University of Michigan
+- *2022.11* Undergraduate Excellent Scholarship (Class B), SJTU
+
 
 # 📖 Educations
+
 - **University of Michigan**, Bachelor of Science, Computer Science, Minor in Mathematics, *2023 - 2025*.  
 - **Shanghai Jiaotong University**, Bachelor of Electrical and Computer Engineering, *2021 - 2023*.
 - **Shanghai High School**, Outstanding Graduate, *2018 - 2021*.
 
 # 💼 Internships
+
 - *2024 May-August*, **IT and Business Analytics Intern @ Innovac Therapeutics**, Boston, MA.
 - *2024 June-August*, **Research Assistant @ Hangzhou Yunqi Academy of Engineering**, Hangzhou, China.
 
 # 💻 Research Experience
+
 - **Cloud Gaming Platform with AI Integration (PRP) @ SJTU**, *2021-2022*  
   Developed a cloud gaming platform with high-quality rendering. Utilized ffmpeg and YOLO to reduce rendering latency. Collaborated with a team to optimize sensory performance, achieving a smooth gaming experience.
 
@@ -70,3 +84,7 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
 # 🎓 Certificates
 - **Google Analytics**, *2024.5*  
   Set up a Google Analytics 4 property, collected key business data, and reported insights. [View The Certificate](src/Google_Analytics_Certificate.pdf)
+
+# 🧑‍🏫 Activities
+- *Fall 2022* TA for VY100 & VY200 (Academic Writing), UMJI
+- *Winter 2025* TA for EECS442 (Computer Vision), Umich
