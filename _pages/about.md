@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhuoheng Li, and I am currently a senior student at the University of Michigan, Ann Arbor.
+I am Zhuoheng Li, a Ph.D. student at Penn State University in the College of Information Sciences and Technology.
 
-I am pursuing a dual degree program through the Shanghai Jiao Tong University and the University of Michigan Joint Institute. Upon graduation, I will hold a Bachelor of Electrical and Computer Engineering from SJTU and a Bachelor of Science in Computer Science with a Minor in Mathematics from Umich. I have conducted several researches under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
+Previously, I completed a dual degree program through the University of Michigan and Shanghai Jiao Tong University Joint Institute. I hold a Bachelor of Science in Computer Science with a Minor in Mathematics from the University of Michigan, Ann Arbor, and a Bachelor of Electrical and Computer Engineering from SJTU.
 
-My research interests encompass AI for Science, Data Mining, and Large Language Models.
+I have conducted several researches under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
+
+My current research interests lie in Large Language Models (LLMs) and Extended Reality (XR), with a focus on their intersection with security and spatial temporal applications.
 
 
 # 📝 Papers 
@@ -32,7 +34,7 @@ My research interests encompass AI for Science, Data Mining, and Large Language 
 
 - **Generative AI in Transportation Planning: A Survey**, *2025*  
   Longchao Da, Tiejin Chen, **Zhuoheng Li**, Shreyas Bachiraju, Huaiyuan Yao, Xiyang Hu, Zhengzhong Tu, Yue Zhao, Dongjie Wang, Ram Pendyala, Benjamin Stabler, Yezhou Yang, Xuesong Zhou, Hua Wei
-  arXiv Preprint.
+  arXiv Preprint. [arXiv](https://arxiv.org/abs/2503.07158)
 
 - **What can LLM tell us about cities?**, *2024*  
   **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li  
