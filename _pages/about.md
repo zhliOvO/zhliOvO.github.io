@@ -17,16 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhuoheng Li, a Ph.D. student at Penn State University in the College of Information Sciences and Technology.
+I am Zhuoheng Li, a Ph.D. student in Informatics at the College of Information Sciences and Technology, The Pennsylvania State University, advised by Dr. Ying Chen. I also work closely with Dr. Jinyuan Jia.
 
 Previously, I completed a dual degree program through the University of Michigan and Shanghai Jiao Tong University Joint Institute. I hold a Bachelor of Science in Computer Science with a Minor in Mathematics from the University of Michigan, Ann Arbor, and a Bachelor of Electrical and Computer Engineering from SJTU.
 
 I have conducted several researches under the guidance of Professors [Zhenhui Li](https://jessielzh.com), [Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/), [Yi Shi](https://yishi.sjtu.edu.cn), [Zhuoran Song](https://songzhuoran.github.io), and [Justin Kasper](https://clasp.engin.umich.edu/people/kasper-justin-c/).
 
-My current research interests lie in Large Language Models (LLMs) and Extended Reality (XR), with a focus on their intersection with security and spatial temporal applications.
+My current research interests lie in the security and robustness of multimodal large language models and LLM-based agents.
 
 
 # 📝 Papers 
+- **Extended to Reality: Prompt Injection in 3D Environments**, *2026*  
+  **Zhuoheng Li**, Ying Chen  
+  Conference on Language Modeling (COLM) 2026.
+
+- **Feedback-Assisted Trust Propagation over Document Relation Graphs for Retrieval-Augmented Generation**, *2026*  
+  **Zhuoheng Li**, Ying Chen  
+  Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026.
 
 - **Be.FM: An Open Foundation Model for Human Behaviors**, *2025*  
   Yutong Xie, **Zhuoheng Li**, Xiyuan Wang, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Jin Huang, Xingjian Zhang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei  
@@ -38,7 +45,7 @@ My current research interests lie in Large Language Models (LLMs) and Extended R
 
 - **What can LLM tell us about cities?**, *2024*  
   **Zhuoheng Li**, Zhixue Song, Yuqi Huang, Yaochen Wang, Rui Bao, Guanjie Zheng, Zhenhui Jessie Li  
-  In Review, IJCAI 2025. [arXiv](https://arxiv.org/abs/2411.16791)
+  arXiv Preprint. [arXiv](https://arxiv.org/abs/2411.16791)
 
 - **DARK: Denoising, Amplification, and Restoration Kit (Low-light enhancement)**, *2024*  
   **Zhuoheng Li**, Yuheng Pan, Houcheng Yu, Zhiheng Zhang  
