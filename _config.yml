@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuoheng Li"
-description              : "Senior Computer Science Student at University of Michigan"
+description              : "PhD Student at the Pennsylvania State University"
 repository               : "zhliOvO/zhliOvO.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoheng Li"
   avatar           : "images/avatar.jpg"
-  bio              : "University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "The Pennsylvania State University"
+  location         : "State College, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6lA1lrIAAAAJ"
-  email            : "zhlii@umich.edu"
+  email            : "zml5515@psu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

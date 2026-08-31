@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhuoheng Li, a Ph.D. student in Informatics at the College of Information Sciences and Technology, The Pennsylvania State University, advised by Dr. Ying Chen. I also work closely with Dr. Jinyuan Jia.
+I am Zhuoheng Li, a Ph.D. student in Informatics at the College of Information Sciences and Technology, The Pennsylvania State University, advised by Dr. [Ying Chen](https://yingchen115.github.io). I also work closely with Dr. [Jinyuan Jia](https://jinyuan-jia.github.io).
 
 Previously, I completed a dual degree program through the University of Michigan and Shanghai Jiao Tong University Joint Institute. I hold a Bachelor of Science in Computer Science with a Minor in Mathematics from the University of Michigan, Ann Arbor, and a Bachelor of Electrical and Computer Engineering from SJTU.
 
@@ -25,6 +25,7 @@ I have conducted several researches under the guidance of Professors [Zhenhui Li
 
 My current research interests lie in the security and robustness of multimodal large language models and LLM-based agents.
 
+<span style="color: red;"><strong>Note:</strong> I am seeking internship opportunities for Summer 2027.</span>
 
 # 📝 Papers 
 - **Extended to Reality: Prompt Injection in 3D Environments**, *2026*  
@@ -78,11 +79,11 @@ My current research interests lie in the security and robustness of multimodal l
 - **Cloud Gaming Platform with AI Integration (PRP) @ SJTU**, *2021-2022*  
   Developed a cloud gaming platform with high-quality rendering. Utilized ffmpeg and YOLO to reduce rendering latency. Collaborated with a team to optimize sensory performance, achieving a smooth gaming experience.
 
-- **Time Series Forecasting with Machine Learning**, *2023*  
+<!-- - **Time Series Forecasting with Machine Learning**, *2023*  
   Predicted future sales data using the XGBoost model. Conducted data preprocessing, feature engineering, and parameter optimization for accurate predictions.
 
 - **Mathematical Contest in Modeling (MCM)**, *2023*  
-  Developed optimization models using Linear Integer Programming and conducted TOPSIS analysis for strategy selection.
+  Developed optimization models using Linear Integer Programming and conducted TOPSIS analysis for strategy selection. -->
 
 - **Multidisciplinary Design Program (MDP)**, *2024*  
   Developed a transient array detection system and implemented a machine learning classification method for burst signals in the ground array of the SunRISE project.
